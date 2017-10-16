@@ -1787,6 +1787,18 @@ body {
 .cid-qxtWtYm1ja .card-title {
   color: #ffffff;
 }
+.cid-qyfM04wiBQ {
+  background: #ffffff;
+}
+.cid-qyfM04wiBQ .video-block {
+  margin: auto;
+  width: 100% !important;
+}
+@media (max-width: 768px) {
+  .cid-qyfM04wiBQ .video-block {
+    width: 100% !important;
+  }
+}
 .cid-qxuG0iACMy {
   padding-top: 45px;
   padding-bottom: 45px;
